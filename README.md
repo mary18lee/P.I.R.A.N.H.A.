@@ -33,6 +33,9 @@ This repository contains a program that has three features, listed as follows:
   3. Illustrates a brief description about the program and the developers behind it.
 
 ## Overview
+The goal of this program is to build a safe and trustworthy environment again for the users of online communications or transactions. It construct a divers set of platforms and tools to identify what is fake to real websites that the users will use. 
+The content is based from the widening spread of technology around us that even fraudulent hackers can adopt and learn from it, that's why we want to help our people to have a secure and positive online technology mechanics.
+
 The students created a program that detects phishing websites using machine learning algorithm that checks whether the website is phishing or a safe website. The students used their knowledge that they obtained in the subject CPE106L and created a project that detects phishing websites with the use of machine learning algorithm, phishing websites are then stored in a file so that the program can comprehend and compare the differences between a phishing website and a non-phishing website. 
 
 ### Requirements
@@ -79,6 +82,8 @@ python3 --version
 
 ### How to Use
 ## Target Audience
+We would also like to expaand our audiences as we program it for the users that has been having problem on not catching or even getting a justice on their stolen identities and personal informations. 
+Aswell as the fake transactions of name, password and personal bank accounts, the value and examples provided in our program is intended to be a widely solution on online underhand transfer.
 
 ## Focus Areas
 This repository aims to give understanding on how Detecting Phishing Websites works.
